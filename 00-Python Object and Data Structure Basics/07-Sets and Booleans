@@ -1,0 +1,5 @@
+1. Sets are unordered collection of unique elements. 集合，不许重复
+    myset=set()
+    myset.add(1)
+    
+2. Boolean: True or False
