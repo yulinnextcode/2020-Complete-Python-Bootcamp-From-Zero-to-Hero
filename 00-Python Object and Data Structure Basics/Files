@@ -1,0 +1,15 @@
+1. pwd
+2. myfile=open('myfile.txt')
+   myfile.read()
+   myfile.seek(0)
+   myfile.readline()
+   myfile.close()
+3. with open('myfile.txt',mode='r') as my_new_file:
+      contents=my_new_file.read()
+4. mode='r' is read only
+   mode='w' is write only (will overwrite files or create new!)
+   mode='a' is append only (will add on files)
+   mode='r+' is reading and writing
+   mode='w+' is writing and reading (Overwrites existing files for creates a new file!)
+5. with open('myfile.txt',mode='a') as my_new_file:
+      f.write('\n Added')
