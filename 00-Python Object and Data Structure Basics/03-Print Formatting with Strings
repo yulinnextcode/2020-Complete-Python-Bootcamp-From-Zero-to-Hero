@@ -1,0 +1,4 @@
+Formatting的三种方法：
+  1. Format with %s placeholder method
+  2. Formatting with the .format() method
+  3. Format with string literals (f-strings), python 3.6 or later
