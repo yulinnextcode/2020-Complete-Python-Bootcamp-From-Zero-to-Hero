@@ -1,0 +1,10 @@
+1. Python uses dynamic typing, C++ uses static typing
+2. Different variable type
+    int
+    float
+    str
+    list
+    tuple
+    dict
+    set
+    bool
