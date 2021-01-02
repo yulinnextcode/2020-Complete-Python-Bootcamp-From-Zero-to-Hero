@@ -1,0 +1,4 @@
+1. Immutable/immutability: once an elemet is inside a tuple, it can not be reassigned.
+2. Tuples use ()
+3. Can use slicing and indexing like list
+4. index()返回第一个符合条件的位置，count()返回总次数
