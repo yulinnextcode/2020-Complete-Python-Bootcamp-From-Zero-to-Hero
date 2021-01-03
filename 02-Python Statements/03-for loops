@@ -1,0 +1,16 @@
+1. for item in object:
+      statements to do stuff
+      
+2. d = {'k1':1,'k2':2,'k3':3}
+   for item in d:  #只循环关键字
+      print(item)
+      
+   # Dictionary unpacking
+   for k,v in d.items():
+      print(k)
+      print(v)      
+      
+   # Dictionary unpacking
+   for value in d.values():
+      print(value)
+       
