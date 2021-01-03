@@ -1,0 +1,23 @@
+1. range
+    The range function allows you to quickly generate a list of integers, this comes in handy a lot, so take note of how to use it! There are 3 parameters you can pass, a start, a stop, and a step size. 
+
+2. enumerate
+    enumerate is a very useful function to use with for loops.
+    
+3. zip
+    return a tuple
+    
+4. in
+    We've already seen the in keyword during the for loop, but we can also use it to quickly check if an object is in a list
+    
+5. not in
+    We can combine in with a not operator, to check if some object or variable is not present in a list.
+    
+6. min and max
+    Quickly check the minimum or maximum of a list with these functions.
+
+7. random
+    Python comes with a built in random library. There are a lot of functions included in this random library, so we will only show you two useful functions for now.
+    
+8. input
+    input('Enter Something into this box: ')
