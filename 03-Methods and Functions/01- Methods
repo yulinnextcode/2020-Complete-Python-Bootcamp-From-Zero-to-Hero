@@ -1,0 +1,6 @@
+Methods are essentially functions built into objects. Later on in the course we will learn about how to create our own objects and methods using Object Oriented Programming (OOP) and classes.
+
+Methods perform specific actions on an object and can also take arguments, just like a function. 
+
+Methods are in the form:
+    object.method(arg1,arg2,etc...)
