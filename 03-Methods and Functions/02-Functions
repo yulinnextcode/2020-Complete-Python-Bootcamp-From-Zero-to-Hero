@@ -1,0 +1,32 @@
+1. Formally, a function is a useful device that groups together a set of statements so they can be run more than once. They can also let us specify parameters that can serve as inputs to the functions.
+
+2. Function Topics
+    def keyword
+    simple example of a function
+    calling a function with ()
+    accepting parameters
+    print versus return
+    adding in logic inside a function
+    multiple returns inside a function
+    adding in loops inside a function
+    tuple unpacking
+    interactions between functions
+    
+3. def keyword    
+    Using all lowercase with underscores between words
+
+    def name_of_function(arg1,arg2):
+        '''
+        This is where the function's Document String (docstring) goes.
+        When you call help() on your function it will be printed out.
+        '''
+4. Using return
+    return allows a function to return a result that can then be stored as a variable, or used in whatever manner a user wants.
+    
+5. Returning tuples for unpacking
+
+
+
+
+
+
