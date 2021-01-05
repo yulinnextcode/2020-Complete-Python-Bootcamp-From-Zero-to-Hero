@@ -1,0 +1,11 @@
+1. *args: 如直接返回是 tuple
+    When a function parameter starts with an asterisk, it allows for an arbitrary number of arguments, and the function takes them in as a tuple of values.
+    
+    It is worth noting that the word "args" is itself arbitrary - any word will do so long as it's preceded by an asterisk.
+    
+2. **kwargs: 如直接返回是 dictionary
+    Python offers a way to handle arbitrary numbers of keyworded arguments. Instead of creating a tuple of values, **kwargs builds a dictionary of key/value pairs.
+    
+    
+    
+    
