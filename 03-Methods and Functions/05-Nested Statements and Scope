@@ -1,0 +1,6 @@
+1. Scope 
+    LEGB Rule:
+      L: Local
+      E: Enclosing function locals
+      G: Global (module)
+      B: Built-in (Python)
