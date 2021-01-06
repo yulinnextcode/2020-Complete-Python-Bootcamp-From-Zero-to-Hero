@@ -1,0 +1,7 @@
+1. Accepting user input
+    Creating function that takes in an input from user and returns the result in the correct data type. 
+    Python默认将输入的为字符串str
+    
+2. Validating user input    
+    Check that input is valid before attempting to convert.
+      
