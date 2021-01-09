@@ -1,0 +1,33 @@
+1. try/except/else/finally
+
+    try:
+        # want to attempt this code may have an error
+    except:
+        print("Not doing correctly")
+    else:
+        print("Doing correctly")  
+
+
+    try:
+        # want to attempt
+    except TypeError:
+        print("TypeError")
+    except OSError:
+        print("OSError")
+    finally:
+        print("I always run")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
