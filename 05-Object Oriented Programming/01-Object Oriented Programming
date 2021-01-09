@@ -1,0 +1,52 @@
+1. Object Oriented Programming
+
+    For this lesson we will construct our knowledge of OOP in Python by building on the following topics:
+
+      Objects
+      Using the class keyword
+      Creating class attributes
+      Creating methods in a class
+      Learning about Inheritance
+      Learning about Polymorphism
+      Learning about Special Methods for classes
+      
+2. User defined attributes & Class object attributes
+
+    In Python there are also class object attributes. These Class Object Attributes are the same for any instance of the class. 
+    
+3. 创建类的时候是否带括号（）
+    
+    class A:
+    class A():
+    class A(object):
+    
+    不需要继承的话，以上三种是等价的。带括号的这个类很可能会用来作为继承的操作，所以会加上。
+
+4. Method()
+
+    Methods are functions defined inside the body of a class. They are used to perform operations with the attributes of our objects.
+    
+    Methods are a key concept of the OOP paradigm. They are essential to dividing responsibilities in programming, especially in large applications.
+    
+5. Inheritance
+
+    Inheritance is a way to form new classes using classes that have already been defined. The newly formed classes are called derived classes, the classes that we derive from are called base classes.
+    
+    Important benefits of inheritance are code reuse and reduction of complexity of a program. The derived classes (descendants) override or extend the functionality of base classes (ancestors).
+    
+6. Polymorphism 多态性
+
+7. Special Methods
+
+    https://zhuanlan.zhihu.com/p/79381718
+    Python类的特殊方法又称为魔术方法，它是以双下划线包裹一个词的形式出现，例如init。特殊方法不仅可以可以实现构造和初始化，而且可以实现比较、算数运算，此外，它还可以让类像一个字典、迭代器一样使用，可以设计出一些高级的代码，例如单例模式。 
+    
+    
+
+    
+    
+    
+    
+    
+
+
