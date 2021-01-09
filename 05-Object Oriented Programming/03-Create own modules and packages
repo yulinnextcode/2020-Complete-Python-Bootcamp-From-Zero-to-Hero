@@ -1,0 +1,29 @@
+1. Modules
+
+    Modules are just .py scripts that you call in another .py script    
+    
+    Packages are a collections of modules
+    
+2. How to create a package
+
+    __init__.py says "This is a package"
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
