@@ -1,0 +1,9 @@
+1. if __name__ == "__main__":
+
+    如果相等：is being run directly
+    如果不等：is being imported into another module
+    
+    If that code is being imported into another module, the various function and class definitions will be imported, but the main() code won't get run.
+
+
+
