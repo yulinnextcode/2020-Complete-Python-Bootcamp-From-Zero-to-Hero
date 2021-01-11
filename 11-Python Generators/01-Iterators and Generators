@@ -1,0 +1,21 @@
+1. yield
+
+    yield 是一个类似 return 的关键字，只是这个函数返回的是个生成器。 这个例子没什么用途，但是它让你知道，这个函数会返回一大批你只需要读一次的值. 为了精通 yield ,你必须要理解：当你调用这个函数的时候，函数内部的代码并不立马执行，这个函数只是返回一个生成器对象
+    
+2. next() and iter() built-in functions
+
+    The next() function allows us to access the next element in a sequence.
+    
+3. s_iter = iter(s)    
+    
+
+
+
+
+
+
+
+
+
+
+
