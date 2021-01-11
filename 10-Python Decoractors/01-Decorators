@@ -1,0 +1,14 @@
+1. Decorators
+
+    Decorators can be thought of as functions which modify the functionality of another function. They help to make your code shorter and more "Pythonic".
+
+    谈装饰器前，还要先要明白一件事，Python 中的函数和 Java、C++不太一样，Python 中的函数可以像普通变量一样当做参数传递给另外一个函数
+
+
+
+
+
+
+
+
+
